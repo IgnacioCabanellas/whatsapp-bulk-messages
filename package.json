@@ -16,6 +16,8 @@
     "typescript": "^3.9.10"
   },
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "node-clipboardy": "^1.0.3",
+    "puppeteer": "^21.5.2"
   }
 }
